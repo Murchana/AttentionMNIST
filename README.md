@@ -12,3 +12,7 @@ Refer to the ReadData.ipynb file for reading the data.
 
 # Citation for using the dataset
 Baruah, M., Banerjee, B., Nagar, A. K., & Marois, R. (2023). AttentionMNIST: a mouse-click attention tracking dataset for handwritten numeral and alphabet recognition. Scientific Reports, 13(1), 3305
+
+
+# Contact
+For any questions email: murchanabaruah23@gmail.com
